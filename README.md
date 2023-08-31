@@ -3,7 +3,9 @@
 
 ## Description
 
-This project contains three folders that serve different purposes and contain various files to achieve specific tasks.
+This is the source code and resources that I used in the work.
+You can also check out the [Blind Men and the Elephant paper](/The_Blind_Men_and_the_Elephant___Enhancing_Virtual_Reality_Interactions.pdf) associated with this project for more details.
+
 
 ## Folders
 
